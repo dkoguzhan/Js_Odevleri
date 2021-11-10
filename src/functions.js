@@ -24,7 +24,9 @@ numbers.forEach(number => {
 }
 
 
-
+findPrime(3,5,9,12,13,15,17,20)
+findPrime(3,5,9,12,13,15,17,20)
+findPrime(3,5,9,12,13,15,17,20)
 findPrime(3,5,9,12,13,15,17,20)
 
 findPrime(3,5,9,12,13,15,17,20)
